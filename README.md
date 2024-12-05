@@ -13,6 +13,4 @@ CatBoost
 
 AI hub : https://www.aihub.or.kr/aihubdata/data/view.do?dataSetSn=71581
 
-참고
-
 빵형의 개발도상국 : https://www.youtube.com/watch?v=bUap1tORdWc
